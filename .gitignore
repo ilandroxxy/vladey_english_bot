@@ -8,6 +8,7 @@ __pycache__/
 token.txt
 .DS_Store
 .idea/
+*.db
 
 # Distribution / packaging
 .Python
